@@ -21,7 +21,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>Main</mainClass>
+                  <mainClass>Main2</mainClass>
                 </transformer>
               </transformers>
             </configuration>
